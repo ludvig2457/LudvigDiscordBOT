@@ -1,2 +1,2 @@
 # LudvigDiscordBOT
-Discord бот для музыки и игр от Ludvig2457.
+Discord bot for music and games by Ludvig2457.
